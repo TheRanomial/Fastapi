@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-08-01"
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://amazed-hookworm-58301.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="AeO9AAIjcDFiYjI4Yzc5YjEwYWM0YzExYjE1ZWM2YzI5MjcxODJhNHAxMA"
